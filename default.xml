@@ -4,7 +4,7 @@
   <remote  name="origin" fetch="http://github.com/" />
   <default revision="master" remote="origin" sync-j="1" />
 
-  <project path="jelyll-ditaa"            name="matze/jekyll-ditaa" />
+  <project path="jekyll-ditaa"            name="matze/jekyll-ditaa" />
   <project path="octopress-category-list" name="alswl/octopress-category-list" />
   <project path="octopress-chuck-norris"  name="alestanis/octopress-chuck-norris" />
   <project path="octopress-keyboardkey"   name="rcmdnk/keyboardkey" />
