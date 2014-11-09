@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="origin" fetch="https://github.com/" />
-  <default revision="master" remote="origin" sync-j="8" />
+  <default revision="master" remote="origin" sync-j="1" />
 
   <project path="jelyll-ditaa" name="matze/jekyll-ditaa" />
   <project path="octopress-category-list" name="alswl//octopress-category-list" />
